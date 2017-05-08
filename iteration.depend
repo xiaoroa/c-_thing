@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1493968733 source:c:\users\xiaor\documents\hpcd\co\iteration\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	<fstream>
+
